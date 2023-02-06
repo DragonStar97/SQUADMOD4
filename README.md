@@ -1,3 +1,12 @@
+
+# MEMBROS SQUAD 4
+
+YURI NUNES - COLABORADOR
+CAIO MORAES - CO- FACILITADOR 
+JOÃO GUILHERME - GESTOR DE GENTE E ENGAJAMENTO
+BEATRICE MACRUZ - GESTORA DE CONHECIMENTO 
+NATHALIA CARDOSO - COLABORADORA
+
 # TEMA
 
 ![MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@ _V1_](https://user-images.githubusercontent.com/113937013/216836846-7c008d91-db49-416f-aae7-4b82faa5773a.jpg)
@@ -52,7 +61,6 @@ d) Top 7 eps com a melhor classificação:
 e) Top 7 diretores que mais participaram da série:
 
 ![diretores_que_mais_participaram](https://user-images.githubusercontent.com/113937013/217044333-bce7a4fd-c71a-4a8a-a717-388f99171df7.png) 
-
 
 
 
