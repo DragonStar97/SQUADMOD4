@@ -1,27 +1,27 @@
-# Tema
+# TEMA
 
 ![MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@ _V1_](https://user-images.githubusercontent.com/113937013/216836846-7c008d91-db49-416f-aae7-4b82faa5773a.jpg)
 
-# O que é
+# O QUE É?
 
 ![westeros_and_the_free_cities_game_of_thrones_map_by_althemarchitect_dd9dioe-fullview](https://user-images.githubusercontent.com/113937013/216837822-9748cb16-ac29-4ced-bfb7-836a184c7c3e.jpg)
 
 Game of thrones foi inspidada na coletania "As Cronicas de Gelo e Fogo" por George R.R Martin, o seriado mostra a disputa por poder em Westeros, continente ficticio que tem 7 familias poderosas. Apos uma rebelião que tirou a Dinastia Targaryen do poder, o reino se dobra agora ao Rei Robert Baratheon, que governa graças a intricados acordos que lhe garantem o poder.
 
-# Desafio
+# DESAFIO:
 
 A propósta do projeto é realizar uma consulta ao banco de dados disponibilizado e criar queryes que possam responder perguntas sobre o banco selecionado.
 
-# O que são queryes
+# O QUE SÃO QUERYES:
 
 São códigos pré-definidos que fazem uma seleção para responder uma solicitação, que gera um dado que pode responder a um questionamento.
 Ferramentas utilizadas.
 
-# Ferramentas
+# FERRAMENTA:
 
 MySQL, bancada, GitHub, PowerBi, GitHub Desktop.
 
-# O projeto
+# O PROJETO:
 
 O objetivo deste projeto é manipular e visualizar os dados inseridos em um banco de dados SQL em uma ferramenta como o MySQL.
 
@@ -31,7 +31,7 @@ O objetivo deste projeto é manipular e visualizar os dados inseridos em um banc
 
 .Organização e uso de ferramentas como MySQL, Github, PowerBi, GitHub Desktop e Workbench para organização e construção do projeto.
 
-# perguntas
+# PERGUNTAS:
 
 a) Quantas casas existem em Westeros?
 
@@ -51,5 +51,8 @@ d) Top 7 eps com a melhor classificação:
 
 e) Top 7 diretores que mais participaram da série:
 
-![diretores_que_mais_participaram](https://user-images.githubusercontent.com/113937013/217044333-bce7a4fd-c71a-4a8a-a717-388f99171df7.png)
+![diretores_que_mais_participaram](https://user-images.githubusercontent.com/113937013/217044333-bce7a4fd-c71a-4a8a-a717-388f99171df7.png) 
+
+
+
 
