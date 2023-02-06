@@ -32,3 +32,5 @@ CREATE TABLE `personagens` (
   `First_appearance` int(11) DEFAULT NULL,
   `Last_appearance` int(11) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+----------------------------------------------------------------------------------------------------------------------------
