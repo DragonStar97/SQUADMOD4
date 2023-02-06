@@ -53,6 +53,3 @@ e) Top 7 diretores que mais participaram da série:
 
 ![diretores_que_mais_participaram](https://user-images.githubusercontent.com/113937013/217044333-bce7a4fd-c71a-4a8a-a717-388f99171df7.png)
 
-f) Top 7 eps com as melhores avaliçoes entre 2015 e 2019:
-
-![top7_episodios_com_maior_avaliação_entre2015e2019](https://user-images.githubusercontent.com/113937013/217044435-76e3eac0-ba0f-4ba6-8d06-52c7a8a5e7f8.png)
