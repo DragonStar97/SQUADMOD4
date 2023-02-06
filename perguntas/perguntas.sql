@@ -21,6 +21,7 @@ SELECT Title, Season, Episode, Rating FROM Episodes_appeared ORDER BY Rating DES
 SELECT actor, nome_personagem,Episodes_appeared  FROM personagens ORDER BY Episodes_appeared DESC limit 7;
 
 -- #6 Top 7 diretores que mais participaram da série:
+
 select distinct count(Director) as quantidade_participação ,Director,Title,Episode from got_episodios  group by director asc limit 7;
 
 
