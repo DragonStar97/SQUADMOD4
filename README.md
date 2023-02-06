@@ -1,9 +1,3 @@
-# SQUADMOD4
-Projeto Squad Modulo 4 Senac/Resilia
-
-https://github.com/szya5/Projeto4grupo
-https://github.com/brwnalima/Projeto-em-grupo-4
-
 # Tema
 
 ![MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@ _V1_](https://user-images.githubusercontent.com/113937013/216836846-7c008d91-db49-416f-aae7-4b82faa5773a.jpg)
@@ -39,16 +33,26 @@ O objetivo deste projeto é manipular e visualizar os dados inseridos em um banc
 
 # perguntas
 
-a) Quais são os 10 melhores episodios da série?
+a) Quantas casas existem em Westeros?
 
-1. The Door
-2. Battle of the Bastards
-3. The Winds of Winter
-4. Fire and Blood
-5. The Laws of Gods and Men
-6. Mother’s Mercy
-7. Hardhome
-8. The Bear and the Maiden Fair
-9. The Rains of Castamere
-10. Baelor
+![total_casas_emWesteros](https://user-images.githubusercontent.com/113937013/217042649-fb71b71e-1029-47c5-8350-c974e902a6aa.png)
 
+b) Regiões com mais casas:
+
+![regioes_com_mais_casas](https://user-images.githubusercontent.com/113937013/217042873-402a6f5b-568b-45ca-941e-0b5c1d407dfc.png)
+
+c) Top 7 eps com maior duração:
+
+![episodios_com_maior_duração](https://user-images.githubusercontent.com/113937013/217043088-68ea071e-08f4-446f-ac47-b48b2e209f81.png)
+
+d) Top 7 eps com a melhor classificação:
+
+![top7_episodios_com_maior_avaliação](https://user-images.githubusercontent.com/113937013/217043746-f70c90fe-1f1a-4a2b-88ff-45df78e137a7.png)
+
+e) Top 7 diretores que mais participaram da série:
+
+![diretores_que_mais_participaram](https://user-images.githubusercontent.com/113937013/217044333-bce7a4fd-c71a-4a8a-a717-388f99171df7.png)
+
+f) Top 7 eps com as melhores avaliçoes entre 2015 e 2019:
+
+![top7_episodios_com_maior_avaliação_entre2015e2019](https://user-images.githubusercontent.com/113937013/217044435-76e3eac0-ba0f-4ba6-8d06-52c7a8a5e7f8.png)
