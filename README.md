@@ -12,7 +12,7 @@ https://github.com/brwnalima/Projeto-em-grupo-4
 
 ![westeros_and_the_free_cities_game_of_thrones_map_by_althemarchitect_dd9dioe-fullview](https://user-images.githubusercontent.com/113937013/216837822-9748cb16-ac29-4ced-bfb7-836a184c7c3e.jpg)
 
-Game of thrones foi inspidada na coletania "As cronicas de gelo e fogo" fr George R.R Martin, o seriado mostra a disputa por poder em westerios, continente ficticio que tem 7 familias poderosas. Apos uma rebelião que tirou a dinastia targartyon do poder, o reino se dobra agora ao Rei Robert Baratheon, que governa graças a intricados acordos que lhe garantem o poder.
+Game of thrones foi inspidada na coletania "As Cronicas de Gelo e Fogo" por George R.R Martin, o seriado mostra a disputa por poder em Westeros, continente ficticio que tem 7 familias poderosas. Apos uma rebelião que tirou a Dinastia Targaryen do poder, o reino se dobra agora ao Rei Robert Baratheon, que governa graças a intricados acordos que lhe garantem o poder.
 
 # Desafio
 
