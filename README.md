@@ -3,7 +3,7 @@ Projeto Squad Modulo 4 Senac/Resilia
 
 https://github.com/szya5/Projeto4grupo
 https://github.com/brwnalima/Projeto-em-grupo-4
-.....................................................
+
 # Tema
 
 ![MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@ _V1_](https://user-images.githubusercontent.com/113937013/216836846-7c008d91-db49-416f-aae7-4b82faa5773a.jpg)
